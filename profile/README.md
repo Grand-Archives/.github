@@ -6,21 +6,16 @@
 
 ---
 
-### Sobre
+### About GrandArchives
 
-GrandArchives reúne agregadores de conteúdo sobre grandes universos da
-literatura: histórias, personagens, lugares e as conexões entre eles,
-organizados em um só lugar e fáceis de navegar.
+GrandArchives is a non-profit project made by fans, for fans. It brings
+together the great fictional universes of literature (their stories,
+characters, places and the connections between them) into archives that are
+easy to explore and navigate.
 
-Sem anúncios. Todas as fontes consultadas são creditadas em cada site.
+Every archive is free to use and has no ads, and every source consulted is
+credited on its site.
 
-### Arquivos
-
-| Universo | Site |
-| --- | --- |
-| Multiverso de Stephen King | [grandarchives.github.io/multiverso-stephen-king](https://grandarchives.github.io/multiverso-stephen-king/) |
-| Terra-média de Tolkien | [grandarchives.github.io/terra-media](https://grandarchives.github.io/terra-media/) |
-| Mundo Bruxo de Harry Potter | [grandarchives.github.io/mundo-bruxo-harry-potter](https://grandarchives.github.io/mundo-bruxo-harry-potter/) |
-
-<sub>Projeto feito por fãs, sem fins lucrativos. Os direitos sobre as obras,
-personagens e marcas pertencem aos seus respectivos autores e detentores.</sub>
+<sub>All works, characters and trademarks belong to their respective authors
+and rights holders. GrandArchives is an unofficial fan project and is not
+affiliated with or endorsed by any of them.</sub>
